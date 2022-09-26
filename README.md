@@ -1,5 +1,5 @@
 # leave_management_system - php
-This is my final year project leave management system build by php, the purpose of this project is to handle employees' leave requests impartially while ensuring that the employees' absence from work doesn't adversely impact the business.
+This is my final year project, a web-based system to developed using php, JavaScript, jQuery and etc. The objective of this project to handle leave application requested by staff/user.
 
 # Installation
 1. Download the zip file and extracted the folder, make sure the folder root name is `leave_system`
