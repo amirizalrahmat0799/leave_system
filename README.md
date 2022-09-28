@@ -25,6 +25,6 @@ This is an small scale project, you can use it as open source project
 
 ![3](https://user-images.githubusercontent.com/106381212/192793482-58c28a2f-ddb3-4728-9fc2-055f3307c031.png)
 
-4.Settings Page
-
+4. Settings Page
+ 
 ![4](https://user-images.githubusercontent.com/106381212/192793694-659063be-dbc0-4d9f-8522-d2bd614f1ced.png)
