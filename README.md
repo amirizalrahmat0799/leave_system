@@ -8,9 +8,12 @@ This is my final year project, a web-based system to developed using php, JavaSc
 4. Use local web server to run the system
 5. enter username `admin` and password `admin123`
 
+# Disclaimer
+This is an small scale project, you can use it as open source project
+
 # UI / UX
 
-1 . Portal
+{{1 . Portal}}
 ![1](https://user-images.githubusercontent.com/106381212/192792816-b0605997-932d-4edc-9ac5-76c23ad5edd0.png)
 
 2. Login page
@@ -21,6 +24,3 @@ This is my final year project, a web-based system to developed using php, JavaSc
 
 4.Settings Page
 ![4](https://user-images.githubusercontent.com/106381212/192793694-659063be-dbc0-4d9f-8522-d2bd614f1ced.png)
-
-# Disclaimer
-I grant any rights for any dev to use my project for own benefits
