@@ -13,7 +13,7 @@ This is an small scale project, you can use it as open source project
 
 # UI / UX
 
-{{1 . Portal}}
+1 . Portal
 ![1](https://user-images.githubusercontent.com/106381212/192792816-b0605997-932d-4edc-9ac5-76c23ad5edd0.png)
 
 2. Login page
